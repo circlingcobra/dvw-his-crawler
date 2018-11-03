@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>dvw-crawler-merge-remote-7</name>
+  <name>dvw-crawler-merge-remote-9</name>
   <url>http://maven.apache.org</url>
 
   <properties>
